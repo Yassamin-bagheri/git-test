@@ -30,3 +30,6 @@ for (let student of students) {
     totalSum += sum / student.scores.length;
 }
 console.log(totalSum / students.length);
+
+
+// mehrad kahbazi
